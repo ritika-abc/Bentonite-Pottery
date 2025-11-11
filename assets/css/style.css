@@ -5072,3 +5072,9 @@ b , .text-black{
 .jus{
   text-align: justify;
 }
+
+.about-b img{
+  height: 500px !important;
+  width: 100%;
+  object-fit: cover;
+}
